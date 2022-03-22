@@ -1,0 +1,59 @@
+Joey Young 3/21/2022
+
+Security Audits are meant to capture as much information as they can to verify if something should have been that way,
+so when you go back and check you can change it if need be.
+
+SOC 2 is a framework
+
+They were originally introduced to address the growing need of companies to externally validate
+and communicate their state of security
+
+The trust principles are selected by a company based on what is most important to your customers
+
+they are
+security
+confidentiality
+avalability
+integrity
+privacy
+
+
+Here’s an easy way to remember: S = SCOPE, T = TIME.
+
+i.e.
+
+SOC 1 = Financial Scope.
+
+SOC 2 = Information Security Scope.
+
+Type I = At a single point in time.
+
+Type II = Over the past 6 months.
+
+
+As a vendor it is almost required you get SOC 2 compliance.
+
+These are the general policies related to a SOC 2 exam that you must comply with:
+
+Information Security Policy
+Access Control Policy
+Password Policy
+Change Management Policy
+Risk Assessment and Mitigation Policy
+Incident Response Policy
+Logging and Monitoring Policy
+Vendor Management Policy
+Data Classification Policy
+Acceptable Use Policy
+Information, Software and System Backup Policy
+Business Continuity and Disaster Recovery Plan
+
+recommended software is 
+HRIS
+bambooHR or workday
+
+SaaS management is
+Blissfully
+
+there is a lot more recommended software for various different things. Keep this in mind.
+https://www.blissfully.com/guides/soc-2-compliance/
